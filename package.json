@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ZhenjieHuang1996/silver-garbanzo/issues"
   },
-  "homepage": "https://github.com/ZhenjieHuang1996/silver-garbanzo#readme"
+  "homepage": "https://github.com/ZhenjieHuang1996/silver-garbanzo#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0"
+  }
 }

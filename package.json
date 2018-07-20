@@ -1,0 +1,19 @@
+{
+  "name": "silver-garbanzo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhenjieHuang1996/silver-garbanzo.git"
+  },
+  "author": "huangzhenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhenjieHuang1996/silver-garbanzo/issues"
+  },
+  "homepage": "https://github.com/ZhenjieHuang1996/silver-garbanzo#readme"
+}
